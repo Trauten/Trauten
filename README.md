@@ -1,6 +1,5 @@
 ## Olá! Eu sou Victor Trauten ✌
 
-<body>
 
 <div>
   <a href="https://github.com/Trauten">
@@ -34,15 +33,3 @@
 ##
 
 ![Snake animation] (https://github.com/Trauten/Trauten/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
-
-
-        
-</body>
