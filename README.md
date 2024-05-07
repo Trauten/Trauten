@@ -33,7 +33,7 @@
 
 ##
 
-
+![Snake animation] (https://github.com/Trauten/Trauten/blob/output/github-contribution-grid-snake.svg)
 
 
 
